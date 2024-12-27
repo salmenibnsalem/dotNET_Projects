@@ -1,0 +1,488 @@
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\appsettings.json
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\cwAPIdotNET.exe
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\cwAPIdotNET.deps.json
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\cwAPIdotNET.runtimeconfig.json
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\cwAPIdotNET.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\cwAPIdotNET.pdb
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdotNET.csproj.AssemblyReference.cache
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdotNET.AssemblyInfoInputs.cache
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdotNET.AssemblyInfo.cs
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdotNET.csproj.CoreCompileInputs.cache
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdotNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdotNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\staticwebassets\msbuild.cwAPIdotNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\staticwebassets\msbuild.build.cwAPIdotNET.props
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cwAPIdotNET.props
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cwAPIdotNET.props
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\scopedcss\bundle\cwAPIdotNET.styles.css
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdot.10736024.Up2Date
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdotNET.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\refint\cwAPIdotNET.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdotNET.pdb
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\cwAPIdotNET.genruntimeconfig.cache
+C:\Users\Sofiene\source\repos\cwAPIdotNET\obj\Debug\net8.0\ref\cwAPIdotNET.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Models.dll
+C:\Users\Sofiene\source\repos\cwAPIdotNET\bin\Debug\net8.0\Models.pdb
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\appsettings.Development.json
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\appsettings.json
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.staticwebassets.endpoints.json
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.exe
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.deps.json
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.runtimeconfig.json
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.pdb
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Azure.Core.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Azure.Identity.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Humanizer.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.CodeDom.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.csproj.AssemblyReference.cache
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.AssemblyInfoInputs.cache
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.AssemblyInfo.cs
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.csproj.CoreCompileInputs.cache
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.MvcApplicationPartsAssemblyInfo.cs
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.MvcApplicationPartsAssemblyInfo.cache
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\scopedcss\bundle\cwAPIdotNET.styles.css
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets.build.json
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets.development.json
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets\msbuild.cwAPIdotNET.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets\msbuild.cwAPIdotNET.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets\msbuild.build.cwAPIdotNET.props
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cwAPIdotNET.props
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cwAPIdotNET.props
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdot.10736024.Up2Date
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.dll
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\refint\cwAPIdotNET.dll
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.pdb
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.genruntimeconfig.cache
+D:\Net\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\ref\cwAPIdotNET.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.ClientModel.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Text.Json.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\appsettings.Development.json
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\appsettings.json
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.staticwebassets.endpoints.json
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.exe
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.deps.json
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.runtimeconfig.json
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cwAPIdotNET.pdb
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Azure.Core.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Azure.Identity.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Humanizer.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.ClientModel.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.CodeDom.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Text.Json.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.csproj.AssemblyReference.cache
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.AssemblyInfoInputs.cache
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.AssemblyInfo.cs
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.csproj.CoreCompileInputs.cache
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.MvcApplicationPartsAssemblyInfo.cs
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.MvcApplicationPartsAssemblyInfo.cache
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\scopedcss\bundle\cwAPIdotNET.styles.css
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets.build.json
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets.development.json
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets\msbuild.cwAPIdotNET.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets\msbuild.cwAPIdotNET.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets\msbuild.build.cwAPIdotNET.props
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cwAPIdotNET.props
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cwAPIdotNET.props
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdot.10736024.Up2Date
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\refint\cwAPIdotNET.dll
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.pdb
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\cwAPIdotNET.genruntimeconfig.cache
+D:\Net\Tp 7\cwApi_Entreprise_dotNet-main\obj\Debug\net8.0\ref\cwAPIdotNET.dll

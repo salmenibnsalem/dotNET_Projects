@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6648C17-A65C-4779-A76B-E6C1C19FBCF1}|..\\EmployeeManagment.web\\EmployeeManagment.web.csproj|d:\\net\\tp 7\\employeemanagment.web\\pages\\employeelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6648C17-A65C-4779-A76B-E6C1C19FBCF1}|..\\EmployeeManagment.web\\EmployeeManagment.web.csproj|d:\\net\\tp 7\\employeemanagment.web\\pages\\editemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6648C17-A65C-4779-A76B-E6C1C19FBCF1}|..\\EmployeeManagment.web\\EmployeeManagment.web.csproj|d:\\net\\tp 7\\employeemanagment.web\\pages\\editemployeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Net\\EmployeeManagment.web\\Pages\\EditEmployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\controllers\\departmentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:controllers\\departmentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\repositories\\departmentrepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:repositories\\departmentrepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\repositories\\employeerepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:repositories\\employeerepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\cwapidotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:cwapidotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|d:\\net\\tp 7\\cwapi_entreprise_dotnet-main\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D8BD4-49A4-40C0-8F8F-9057FE207FD7}|cwAPIdotNET.csproj|solutionrelative:repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\sofiene\\source\\repos\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Net\\EmployeeManagment.web\\Models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Net\\EmployeeManagment.web\\Pages\\Counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Net\\EmployeeManagment.web\\Models\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeList.razor",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\EmployeeManagment.web\\Pages\\EmployeeList.razor",
+              "RelativeDocumentMoniker": "..\\EmployeeManagment.web\\Pages\\EmployeeList.razor",
+              "ToolTip": "D:\\Net\\Tp 7\\EmployeeManagment.web\\Pages\\EmployeeList.razor",
+              "RelativeToolTip": "..\\EmployeeManagment.web\\Pages\\EmployeeList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:39:00.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditEmployeeBase.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\EmployeeManagment.web\\Pages\\EditEmployeeBase.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeManagment.web\\Pages\\EditEmployeeBase.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\EmployeeManagment.web\\Pages\\EditEmployeeBase.cs",
+              "RelativeToolTip": "..\\EmployeeManagment.web\\Pages\\EditEmployeeBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:04:29.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditEmployee.razor",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\EmployeeManagment.web\\Pages\\EditEmployee.razor",
+              "RelativeDocumentMoniker": "..\\EmployeeManagment.web\\Pages\\EditEmployee.razor",
+              "ToolTip": "D:\\Net\\Tp 7\\EmployeeManagment.web\\Pages\\EditEmployee.razor",
+              "RelativeToolTip": "..\\EmployeeManagment.web\\Pages\\EditEmployee.razor",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:03:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditEmployee.razor",
+              "DocumentMoniker": "D:\\Net\\EmployeeManagment.web\\Pages\\EditEmployee.razor",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeManagment.web\\Pages\\EditEmployee.razor",
+              "ToolTip": "D:\\Net\\EmployeeManagment.web\\Pages\\EditEmployee.razor",
+              "RelativeToolTip": "..\\..\\EmployeeManagment.web\\Pages\\EditEmployee.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T16:26:52.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Net\\EmployeeManagment.web\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeManagment.web\\Models\\Employee.cs",
+              "ToolTip": "D:\\Net\\EmployeeManagment.web\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\..\\EmployeeManagment.web\\Models\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:44:44.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Config\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Config\\AppDbContext.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Config\\AppDbContext.cs",
+              "RelativeToolTip": "Config\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:07:15.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:06:29.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:05:17.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:30:28.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentRepositoryImp.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Repositories\\DepartmentRepositoryImp.cs",
+              "RelativeDocumentMoniker": "Repositories\\DepartmentRepositoryImp.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Repositories\\DepartmentRepositoryImp.cs",
+              "RelativeToolTip": "Repositories\\DepartmentRepositoryImp.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:02:24.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentApiController.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Controllers\\DepartmentApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentApiController.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Controllers\\DepartmentApiController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:27:30.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T11:22:00.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Net\\EmployeeManagment.web\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeManagment.web\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Net\\EmployeeManagment.web\\Pages\\Counter.razor",
+              "RelativeToolTip": "..\\..\\EmployeeManagment.web\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:39:20.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Net\\EmployeeManagment.web\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeManagment.web\\Models\\Department.cs",
+              "ToolTip": "D:\\Net\\EmployeeManagment.web\\Models\\Department.cs",
+              "RelativeToolTip": "..\\..\\EmployeeManagment.web\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:44:39.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeRepositoryImp.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Repositories\\EmployeeRepositoryImp.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepositoryImp.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Repositories\\EmployeeRepositoryImp.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepositoryImp.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:24:03.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wDAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:33:11.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:06:08.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:23:55.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cwAPIdotNET.csproj",
+              "DocumentMoniker": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\cwAPIdotNET.csproj",
+              "RelativeDocumentMoniker": "cwAPIdotNET.csproj",
+              "ToolTip": "D:\\Net\\Tp 7\\cwApi_Entreprise_dotNet-main\\cwAPIdotNET.csproj",
+              "RelativeToolTip": "cwAPIdotNET.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T09:27:23.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
